@@ -135,4 +135,5 @@ quick-commerce-analysis/
 
 ```
 
-👉 [quick-commerce-personalization-analysis.ipynb 바로 보기]./quick-commerce-personalization-analysis.ipynb)
+## 📁 코드
+👉 [quick-commerce-personalization-analysis.ipynb 바로 보기](./quick-commerce-personalization-analysis.ipynb)
