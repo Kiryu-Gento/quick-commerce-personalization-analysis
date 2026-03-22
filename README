@@ -132,6 +132,7 @@ quick-commerce-analysis/
 ├── README.md
 ├── notebooks/
 │   └── core_analysis.ipynb
+
 ```
 
 ## 📁 코드
