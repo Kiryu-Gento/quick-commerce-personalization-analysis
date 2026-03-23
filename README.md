@@ -124,6 +124,8 @@ quick-commerce-analysis/
 ├── notebooks/
 │   └── core_analysis.ipynb
 
+---
+
 ```
 
 ## 사용 코드
