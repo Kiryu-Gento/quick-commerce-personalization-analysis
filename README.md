@@ -117,15 +117,5 @@
 
 ---
 
-## 11. 폴더 구성
-```text
-quick-commerce-analysis/
-├── README.md
-├── notebooks/
-│   └── core_analysis.ipynb
-
-```
----
-
 ## 사용 코드
 👉 [quick-commerce-personalization-analysis.ipynb 바로 보기](./quick-commerce-personalization-analysis.ipynb)
