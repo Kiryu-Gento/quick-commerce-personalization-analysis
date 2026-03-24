@@ -5,6 +5,11 @@
 
 ---
 
+## 사용 코드
+👉 [ecommerce_analysis.ipynb 바로 보기](./ecommerce_analysis.ipynb)
+
+---
+
 ## 1. 프로젝트 개요
 식료품 당일 배송 서비스 데이터 기반 구독 전환 및 재구매율 향상을 위한 개인화 전략 수립 프로젝트
 
@@ -113,6 +118,3 @@
 - Mlxtend(FP-Growth)
 
 ---
-
-## 사용 코드
-👉 [ecommerce_analysis.ipynb 바로 보기](./ecommerce_analysis.ipynb)
