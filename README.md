@@ -115,4 +115,4 @@
 ---
 
 ## 사용 코드
-👉 [quick-commerce-personalization-analysis.ipynb 바로 보기](./quick-commerce-personalization-analysis.ipynb)
+👉 [ecommerce_analysis.ipynb 바로 보기](./ecommerce_analysis.ipynb)
