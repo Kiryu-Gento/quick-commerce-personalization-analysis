@@ -93,9 +93,9 @@ quick-commerce-personalization-analysis/
 | 쿼리 | 핵심 기법 | 설명 |
 |---|---|---|
 | [`SQLQUERY/01_monthly_product_frequency_index.sql`](./SQLQUERY/01_monthly_product_frequency_index.sql) | `AVG() OVER`, `ROW_NUMBER() OVER` | 월별 카테고리 인기상품 Top 3 |
-| [`02_rfm_segmentation.sql`](./02_rfm_segmentation.sql) | `NTILE(5)` × 3, CTE 체이닝 | RFM 5점 스코어링 + 표준 세그먼트 분류 |
-| [`03_dormant_customer_risk_groups`](./sql/03_dormant_customer_risk_groups.sql) | `NTILE(3)`, `DATEDIFF` | 휴면고객 빈도 기준 3개 위험군 분할 |
-| [`04_cohort_retention`](./sql/04_cohort_retention.sql) | 5단계 CTE, `PERIOD_DIFF` | **신규 분석** — 코호트별 월별 리텐션 매트릭스 |
+| [`SQLQUERY/02_rfm_segmentation.sql`](./SQLQUERY/02_rfm_segmentation.sql) | `NTILE(5)` × 3, CTE 체이닝 | RFM 5점 스코어링 + 표준 세그먼트 분류 |
+| [`SQLQUERY/03_dormant_customer_risk_groups.sql`](./SQLQUERY/03_dormant_customer_risk_groups.sql) | `NTILE(3)`, `DATEDIFF` | 휴면고객 빈도 기준 3개 위험군 분할 |
+| [`SQLQUERY/04_cohort_retention.sql`](./SQLQUERY/04_cohort_retention.sql) | 5단계 CTE, `PERIOD_DIFF` | **신규 분석** — 코호트별 월별 리텐션 매트릭스 |
 
 ---
 
