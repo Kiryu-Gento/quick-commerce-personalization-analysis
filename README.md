@@ -5,6 +5,13 @@
 
 **팀명**: 팀 데2터 (4인) | **결과**: 프로젝트 우수상 수상
 
+
+---
+
+
+## 사용 코드
+👉 [taeyoung_analysis.ipynb 바로 보기](./taeyoung_analysis.ipynb)
+
 ---
 
 ## 분석 목표
